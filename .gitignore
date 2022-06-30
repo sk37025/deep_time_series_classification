@@ -1,1 +1,3 @@
 data/
+notebook/lightning_logs/
+*.pth
